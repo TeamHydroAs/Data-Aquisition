@@ -47,7 +47,7 @@
 - Téléchargement sur les sites associés
 - Recherches des documents pertinents
 
-### Evaluation de la qualité des données
+### 4. Evaluation de la qualité des données
 L'évaluation de la qualité des données est est la première étape pour garantir la fiabilité des modèles prédictifs.
 Voici les étapes clés utilisées dans cette étude pour effectuer une analyse de la qualité des données :
 
