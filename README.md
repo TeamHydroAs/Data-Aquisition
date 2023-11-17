@@ -32,20 +32,31 @@
 
 ### 3. Données Géographiques 
 
-### Sources
+#### Sources
 - **Institut Géographique National du Bénin (IGN)**
 - **Source en ligne (USGS Earth Explorer, Google Earth)**
 - **Cartes topographiques et hydrographiques**
 - **Projets de recherche et publications scientifiques antérieures**
 
-### Types de Données
+#### Types de Données
 - Topographie et élévation (Modèle numérique de Terrain (MNT)
 - Cartes satellitaires
 - Occupation des sols et couverture végétale
 
-### Procédure de Collecte
+#### Procédure de Collecte
 - Téléchargement sur les sites associés
 - Recherches des documents pertinents
 
+### Evaluation de la qualité des données
+L'évaluation de la qualité des données est est la première étape pour garantir la fiabilité des modèles prédictifs.
+Voici les étapes clés utilisées dans cette étude pour effectuer une analyse de la qualité des données :
 
+- **Vérification de l'Exhaustivité** : Cela passe par le comptage des valeurs manquantes et l'analyse de leurs comportements ;
 
+- **Contrôle de la Cohérence** : Ici, nous vérifierons les plages des données pour identifier les valeurs abérantes (par Boxplot) ;
+
+- **Évaluation de la Pertinence** : Nous examinerons les relations entre les données (Corrélation) et effectuerons des tests statistiques pour comprendre les données ;
+
+- **Résolution** : Nous vérifierons la résolution des données pour s'assurer de leurs pertinences pour l'étude (Sinon, effectuer un rééchantillonnage) ;
+-
+- **Rectification des Erreurs** : Corriger les erreurs de saisie et incohérences.
