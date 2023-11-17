@@ -58,5 +58,5 @@ Voici les étapes clés utilisées dans cette étude pour effectuer une analyse 
 - **Évaluation de la Pertinence** : Nous examinerons les relations entre les données (Corrélation) et effectuerons des tests statistiques pour comprendre les données ;
 
 - **Résolution** : Nous vérifierons la résolution des données pour s'assurer de leurs pertinences pour l'étude (Sinon, effectuer un rééchantillonnage) ;
--
+  
 - **Rectification des Erreurs** : Corriger les erreurs de saisie et incohérences.
