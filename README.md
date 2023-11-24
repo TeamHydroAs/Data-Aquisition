@@ -51,7 +51,7 @@
 L'évaluation de la qualité des données est est la première étape pour garantir la fiabilité des modèles prédictifs.
 Voici les étapes clés utilisées dans cette étude pour effectuer une analyse de la qualité des données :
 
-- **Vérification de l'Exhaustivité** : Cela passe par le comptage des valeurs manquantes et l'analyse de leurs comportements ;
+- **Vérification de l'Exhaustivité** : Cela passe par le comptage des valeurs manquantes (Connaître le pourcentage de valeurs manquantes pour jugez s'il faut combler ou ne pas utiliser cet ensemble de données) et l'analyse de leurs comportements (Aléatoire ou systématique);
 
 - **Contrôle de la Cohérence** : Ici, nous vérifierons les plages des données pour identifier les valeurs abérantes (par Boxplot) ;
 
@@ -60,3 +60,8 @@ Voici les étapes clés utilisées dans cette étude pour effectuer une analyse 
 - **Résolution** : Nous vérifierons la résolution des données pour s'assurer de leurs pertinences pour l'étude (Sinon, effectuer un rééchantillonnage) ;
   
 - **Rectification des Erreurs** : Corriger les erreurs de saisie et incohérences.
+
+### 5. Outils
+- Logiciels statistiques : R et python (Avec les librairies nécessaires)
+- Logiciels de la cartographie (Qgis)
+- Logiciels hydrologique 
