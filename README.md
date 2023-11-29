@@ -12,6 +12,7 @@
 - Précipitations
 - Température
 - Évapotranspiration
+- Pression
 
 #### Procédure de Collecte
 - Contacte avec les agences y afférents
